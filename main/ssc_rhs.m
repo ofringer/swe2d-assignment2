@@ -1,0 +1,1 @@
+% Right-hand side of scalar transport when computing SSC (i.e. settling/erosion)
